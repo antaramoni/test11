@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<parameter name="param1" value="One"></parameter>
+	<parameter name="param2" value="1"></parameter>
+	<test name="ParamTesting">
+		<classes>
+			<class name="com.javarticles.testng.TestParam" />
+		</classes>
+	</test>
+</suite>

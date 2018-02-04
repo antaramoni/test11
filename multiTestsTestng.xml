@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test name="UnitTesting">
+		<classes>
+			<class name="com.javarticles.testng.TestA" />
+		</classes>
+	</test>
+	<test name="FunctionalTesting">
+		<classes>
+			<class name="com.javarticles.testng.TestA" />
+			<class name="com.javarticles.testng.TestB" />
+		</classes>
+	</test>
+	<test name="UITesting">
+		<classes>
+			<class name="com.javarticles.testng.TestC" />
+		</classes>
+	</test>
+</suite>
